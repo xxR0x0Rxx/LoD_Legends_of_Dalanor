@@ -1,6 +1,1 @@
-Gnaaaaaa
-<<<<<<< HEAD
-Test test; dies ist eine neue Zeile
-=======
-Blaaaa
->>>>>>> 1aa3137a5f6a659235e93e63f41a41f096673bab
+Gnaa
